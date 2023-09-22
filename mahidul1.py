@@ -129,5 +129,5 @@ def method_crack(ids,passlist):
         loop+=1
     except:
         pass
-#-------------end----------------#
+#-------------end---------------#
 MR_DIPTO()
